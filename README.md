@@ -35,6 +35,7 @@ I am interested in building with AI agents, conversational and voice interfaces,
 | Project | What I am building |
 | :-- | :-- |
 | **[AI Brand Character Generator](https://github.com/alonewalkerAI/generador-mascotas-ia)** | A Generative AI experiment that turns brand descriptions into visual mascot concepts. |
+| **[ASFI Normativa Search](https://github.com/alonewalkerAI/asfi-normativa-search-pgvector)** | A semantic-search RAG prototype for ASFI financial regulations, combining FastAPI, pgvector and OpenAI embeddings. |
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Toolkit&color=ff6a00&style=for-the-badge" alt="Toolkit" />
